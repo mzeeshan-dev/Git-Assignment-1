@@ -7,7 +7,7 @@
 - ✔ push dev branch to GitHub
 - ✔ pushing code to dev
 - ✔ create a feature branch (please learn concepts of feature branch)  from dev
-- push new changes to feature branch
+- ✔ push new changes to feature branch
 - create a pull request of feature branch into dev  (PR)
 - merge  PR
 - make pull request of feature branch into dev branch
